@@ -1,7 +1,8 @@
-openai-whisper
-nltk
+fastapi
+uvicorn
 spacy
 vaderSentiment
 scikit-learn
-pytube
-en_core_web_sm
+youtube-transcript-api
+streamlit
+requests
