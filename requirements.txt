@@ -1,0 +1,7 @@
+openai-whisper
+nltk
+spacy
+vaderSentiment
+scikit-learn
+pytube
+en_core_web_sm
